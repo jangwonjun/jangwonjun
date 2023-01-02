@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**jangwonjun/jangwonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요🙇🏻‍♂️   저는 개발자를 꿈꾸는 고등학교 3학년 학생입니다! 
+---
+### 🖥 Technologies I Love
+* NLP 
+* Python Pandas
+* MetaVerse
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Programming Language 
+ > <img src="https://img.shields.io/badge/Python-Blue?style=plastic&logo=Python&logoColor=#3776AB"/> 
+ > <img src="https://img.shields.io/badge/C-blue?style=plastic&logo=C&logoColor=#A8B9CC"/>
+ > <img src="https://img.shields.io/badge/C-blue?style=plastic&logo=C&logoColor=#A8B9CC"/>
