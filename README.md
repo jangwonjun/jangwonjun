@@ -25,4 +25,5 @@ www.activejang.kro.kr
 * Kakao Talk : wonjunjang
 * Instagram : developer_wonjunjang
 * tocplus(in activejang) 
+* Email : admin@activejang.kro.kr
 
