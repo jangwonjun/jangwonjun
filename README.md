@@ -3,10 +3,10 @@
 ---
 ### 🖥 Technologies I Love
 * NLP 
-* Python Pandas
+* KoGPT2
 * MetaVerse
 * chatbot
-* KoGpt
+* Python Pandas
 
 ---
 ### 🛠 Programming Language 
