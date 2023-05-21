@@ -18,7 +18,7 @@
 ---
 
 ### 💾 Portfolio & Live Issue 
-www.activejang.kro.kr
+www.activejang.com
 
 ---
 ### 📞 Contact 
