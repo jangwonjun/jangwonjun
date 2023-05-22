@@ -18,7 +18,7 @@
 ---
 
 ### 💾 Portfolio & Live Issue 
-www.activejang.com
+https://activejang.com/
 
 ---
 ### 📞 Contact 
