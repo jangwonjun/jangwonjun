@@ -6,7 +6,9 @@
 * KoGPT2
 * MetaVerse
 * chatbot
-* Python Pandas
+* Flask
+* Nginx
+* Transformer
 
 ---
 ### 🛠 Programming Language 
