@@ -25,5 +25,5 @@ https://activejang.com/
 * Kakao Talk : wonjunjang
 * Instagram : developer_wonjunjang
 * 채널톡 : ActiveJang
-* Email : admin@activejang.kro.kr
+* Email : admin@activejang.com
 
