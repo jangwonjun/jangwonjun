@@ -29,3 +29,21 @@ https://activejang.com/
 * 채널톡 : ActiveJang
 * Email : admin@activejang.com
 
+
+___
+### ⚙️ Gear
+🖥  Computer 1 (Windows10)
+CPU : I5-9400f
+M/B : Asus Prime Z270 
+RAM : 16gb
+GPU :  RTX 2060 Super(MSi)
+
+💻 Computer 2 (Macbook)
+MacBook Pro 2019 13인치
+
+🐧 Sever (Main)
+CPU : xeon 4v core
+RAM : 8GB
+HDD : 100 GB
+OS : Linux
+
