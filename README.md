@@ -5,7 +5,7 @@
 * NLP 
 * KoGPT2
 * MetaVerse
-* chatbot
+* Chatbot
 * Flask
 * Nginx
 * Transformer
