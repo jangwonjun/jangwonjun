@@ -24,7 +24,7 @@ https://activejang.com/
 
 ---
 ### 📞 Contact 
-* Tel : 070-7918-2788
+* Tel(Customer Center) 24H OPEN : 070-7918-2788
 * Kakao Talk : wonjunjang
 * Instagram : developer_wonjunjang
 * 채널톡 : ActiveJang
