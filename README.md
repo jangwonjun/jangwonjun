@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   </div>
+  
 ---
-
 ### 😀 small Talk
 코딩하는걸 좋아해요 😘 <br>
 근데, 대부분 독학으로 배워서 제가 하는게 맞는지는 몰라요 ㅋㅋ <br>
