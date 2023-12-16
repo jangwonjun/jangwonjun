@@ -48,6 +48,11 @@ https://activejang.com/
 
 ___
 ### ⚙️ Gear
+🖥 main (M3 Pro)
+새로운 컴퓨터를 구매했습니다!
+바로 MacBook M3 Pro 14인치
+너무 좋아요~
+
 🖥  Computer 1 (Windows10)
 CPU : I5-9400f
 M/B : Asus Prime Z270 
