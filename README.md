@@ -4,6 +4,7 @@
 ### 🖥 Technologies I Love
 * NLP 
 * KoGPT2
+* ERP System
 * MetaVerse
 * Chatbot
 * Flask
