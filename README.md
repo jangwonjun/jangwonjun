@@ -26,13 +26,13 @@
   </div>
   
 ---
-### 😀 small Talk
-코딩하는걸 좋아해요 😘 <br>
-근데, 대부분 독학으로 배워서 제가 하는게 맞는지는 몰라요 ㅋㅋ <br>
-저도 훌륭한 개발자 처럼 멋지게 코딩하고 싶어요! <br>
-깃 방문해주셔서 감사합니다 🙇🏻‍♂️
+### 😎 Profile
+* (現) (2024.04 ~) 동국대학교사범대학부속고등학교 AI/SW 부분 대학생 멘토멘티
+* (現) (2024.03 ~) 멋쟁이사자처럼 광운대 12기_백엔드부분
+* (現) (2024.03 ~) De-Butler 3기
+* (現) (2022.10 ~) ActiveJang System 
+* (前) (2020.03 ~ 2022.09) ComputerDoctor 동아리 대표/운영진
 
-  
 ---
 
 ### 💾 Portfolio & Live Issue 
@@ -40,7 +40,6 @@ https://activejang.com/
 
 ---
 ### 📞 Contact 
-* Tel(Customer Center) 24H OPEN : 070-7918-2788
 * Kakao Talk : wonjunjang
 * Instagram : developer_wonjunjang
 * 채널톡 : ActiveJang
@@ -50,9 +49,7 @@ https://activejang.com/
 ___
 ### ⚙️ Gear
 🖥 main (M3 Pro)
-새로운 컴퓨터를 구매했습니다!
-바로 MacBook M3 Pro 14인치
-너무 좋아요~
+MacBook M3 Pro 14
 
 🖥  Computer 1 (Windows10)
 CPU : I5-9400f
