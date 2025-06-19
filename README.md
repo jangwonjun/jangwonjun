@@ -66,8 +66,9 @@ https://activejang.com/
 
 ---
 ### 🏢 Address
-인천광역시 남동구 남동서로 236번길 30, 222-J373호
-222-J373, 30, Namdongseo-ro 236beon-gil, Namdong-gu, Incheon, South Korea
+* 인천광역시 남동구 남동서로 236번길 30, 222-J373호
+* 222-J373, 30, Namdongseo-ro 236beon-gil, Namdong-gu, Incheon, South Korea <br>
+
 📬 방문이나 미팅은 사전 예약 후 가능합니다.
 ___
 ### ⚙️ Gear
